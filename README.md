@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Dhruvil Mistry, a web developer skilled in React, MongoDB, JavaScript, Express.js, and SQL.<br>I build responsive and functional applications using modern web technologies.<br><br>🔭 Currently working on MERN stack and Next.js projects<br><br>🤝 Open to working on full-stack web development projects<br><br>🌱 Learning backend optimization and cloud deployment<br><br>💬 Can help with JavaScript, React, Node.js, and databases
+I am Dhruvil Mistry, a web developer skilled in React, MongoDB, JavaScript, Express.js, and SQL.<br><br>I build responsive and functional applications using modern web technologies.<br><br>🤝 Open to working on full-stack web development projects<br><br>🌱 Learning backend optimization and cloud deployment<br><br>💬 Can help with JavaScript, React, Node.js, and databases
 
 
 ## 🌐 Socials:
