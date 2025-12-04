@@ -22,7 +22,7 @@ I build responsive and functional applications using modern web technologies.<br
 </a>
 
 <a href="https://peerlist.io/dhruvil2" target="blank">
-  <img align="center" src="https://i.postimg.cc/28wH2T7x/peerlist-colored.png" alt="peerlist" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/AnshuKansara/icons/main/peerlist.png" alt="peerlist" height="30" width="30" />
 </a>
 
 <a href="https://leetcode.com/u/dhruvil0204/" target="blank">
