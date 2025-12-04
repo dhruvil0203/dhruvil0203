@@ -6,34 +6,34 @@ I build responsive and functional applications using modern web technologies.<br
 💬 Can help with JavaScript, React, Node.js, and databases
 
 
-## 🌐 Socials:
+## 🌐 Connect to me:
 
 <a href="https://www.instagram.com/_dhruvil_02/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dhruvil-mistry-aba47b259/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40"/>
 </a>
 &nbsp;
 <a href="https://x.com/dkmistry0203">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40"/>
 </a>
 &nbsp;
 <a href="mailto:dkmistry0203@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 &nbsp;
 <a href="https://peerlist.io/dhruvil2">
-  <img src="https://peerlist-public.s3.ap-south-1.amazonaws.com/peerlist-logomark.png" width="40" />
+  <img src="https://peerlist-public.s3.ap-south-1.amazonaws.com/peerlist-logomark.png" width="40"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/dhruvil0204/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/profile/dkmistr9biq">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/768px-GeeksforGeeks.svg.png" width="40"/>
 </a>
 
 
