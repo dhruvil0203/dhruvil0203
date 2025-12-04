@@ -14,7 +14,7 @@ I build responsive and functional applications using modern web technologies.<br
 </a>
 
 <a href="https://x.com/dkmistry0203" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="x-twitter" height="30" width="30" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="x" height="30" width="30" />
 </a>
 
 <a href="mailto:dkmistry0203@gmail.com" target="blank">
@@ -22,7 +22,7 @@ I build responsive and functional applications using modern web technologies.<br
 </a>
 
 <a href="https://peerlist.io/dhruvil2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/AnshuKansara/icons/main/peerlist.png" alt="peerlist" height="30" width="30" />
+  <img align="center" src="https://peerlist.io/favicon-32x32.png" alt="peerlist" height="30" width="30" />
 </a>
 
 <a href="https://leetcode.com/u/dhruvil0204/" target="blank">
