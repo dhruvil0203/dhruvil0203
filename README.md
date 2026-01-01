@@ -21,9 +21,7 @@ I build responsive and functional applications using modern web technologies.<br
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
 </a>
 
-<a href="https://peerlist.io/dhruvil2" target="blank">
-  <img align="center" src="https://peerlist.io/favicon-32x32.png" alt="peerlist" height="30" width="30" />
-</a>
+<a href="https://peerlist.io/dhruvil2" target="blank"><img align="center" src="https://peerlist.io/favicon.ico" alt="peerlist" height="30" width="30" /></a>>
 
 <a href="https://leetcode.com/u/dhruvil0204/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
