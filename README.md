@@ -5,6 +5,7 @@ I build responsive and functional applications using modern web technologies.<br
 🌱 Learning backend optimization and cloud deployment<br><br>
 💬 Can help with JavaScript, React, Node.js, and databases
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhruvil-mistry-aba47b259/" target="blank">
@@ -13,8 +14,8 @@ I build responsive and functional applications using modern web technologies.<br
 <a href="https://x.com/dkmistry0203" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dkmistry0203@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
+<a href="mailto:dkmistry0203@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
 </a>
 <a href="https://peerlist.io/dhruvil2" target="blank">
   <img align="center" src="https://peerlist.io/favicon.ico" alt="peerlist" height="30" width="30" />
@@ -25,7 +26,10 @@ I build responsive and functional applications using modern web technologies.<br
 <a href="https://www.geeksforgeeks.org/profile/dkmistr9biq" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" />
 </a>
-</p>>
+<a href="https://medium.com/@dkmistry0203" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+</a>
+</p>
 
 
 # 💻 Tech Stack:
