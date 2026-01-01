@@ -8,29 +8,24 @@ I build responsive and functional applications using modern web technologies.<br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/dhruvil-mistry-aba47b259/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-
 <a href="https://x.com/dkmistry0203" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="x" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
 </a>
-
 <a href="mailto:dkmistry0203@gmail.com" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
 </a>
-
-<a href="https://peerlist.io/dhruvil2" target="blank"><img align="center" src="https://peerlist.io/favicon.ico" alt="peerlist" height="30" width="30" /></a>>
-
+<a href="https://peerlist.io/dhruvil2" target="blank">
+  <img align="center" src="https://peerlist.io/favicon.ico" alt="peerlist" height="30" width="30" />
+</a>
 <a href="https://leetcode.com/u/dhruvil0204/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
-
 <a href="https://www.geeksforgeeks.org/profile/dkmistr9biq" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/768px-GeeksforGeeks.svg.png" alt="geeksforgeeks" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" />
 </a>
-
 </p>
 
 
