@@ -74,5 +74,3 @@ I build responsive and functional applications using modern web technologies.<br
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvil0203&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
