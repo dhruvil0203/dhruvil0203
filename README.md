@@ -5,6 +5,10 @@ I build responsive and functional applications using modern web technologies.<br
 🌱 Learning backend optimization and cloud deployment<br><br>
 💬 Can help with JavaScript, React, Node.js, and databases
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dhurvil0203&label=Profile%20views&color=0e75b6&style=flat" alt="dhurvil0203" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
