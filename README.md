@@ -83,8 +83,13 @@ I build responsive and functional applications using modern web technologies.<br
   </tr>
 
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=jest" width="40"/><br><strong>Jest</strong></td>
-  </tr>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=jest" width="40"/><br><strong>Jest</strong>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=bun" width="40"/><br><strong>Bun</strong>
+  </td>
+</tr>
 
 </table>
 
