@@ -5,12 +5,10 @@ I build responsive and functional applications using modern web technologies.<br
 🚀 Eager to learn new technologies and master full-stack development<br><br>
 🌱 Deep diving into backend development: authentication, rate limiting, security, and modern development tools<br><br>
 🤝 Open to working on full-stack web development projects<br><br>
-💬 Can help with JavaScript, React, Node.js, and databases
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhruvil0203&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil0203" />
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +34,6 @@ I build responsive and functional applications using modern web technologies.<br
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
 </a>
 </p>
-
 
 # 💻 Tech Stack:
 
