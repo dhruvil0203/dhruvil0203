@@ -88,23 +88,24 @@ I build responsive and functional applications using modern web technologies.
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br><strong>MongoDB</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><strong>MySQL</strong></td>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br><strong>Oracle</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br><strong>Redis</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><strong>JavaScript</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><strong>TypeScript</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><strong>Java</strong></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><strong>Python</strong></td>
 </tr>
 
 <tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><strong>Python</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><strong>C</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><strong>C++</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><strong>Git</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="40"/><br><strong>GitHub</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><strong>Docker</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><strong>Postman</strong></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><strong>Vercel</strong></td>
 </tr>
 
 <tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><strong>Vercel</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=jest" width="40"/><br><strong>Jest</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bun" width="40"/><br><strong>Bun</strong></td>
 </tr>
