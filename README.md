@@ -24,28 +24,9 @@ I build responsive and functional applications using modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dhruvil0203&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil0203" />
-</p></p>
+</p>
 
 ---
 
@@ -99,27 +80,40 @@ I build responsive and functional applications using modern web technologies.
 <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br><strong>GSAP</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><strong>Node.js</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="40"/><br><strong>Express.js</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br><strong>REST API</strong></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=graphql" width="40"/><br><strong>GraphQL</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastify" width="40"/><br><strong>Fastify</strong></td>
+<td align="center" width="120"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br><strong>REST API</strong></td>
 </tr>
 
 <tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=graphql" width="40"/><br><strong>GraphQL</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br><strong>MongoDB</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><strong>MySQL</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br><strong>Oracle</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=oracle" width="40"/><br><strong>Oracle</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br><strong>Redis</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><strong>JavaScript</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><strong>TypeScript</strong></td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><strong>Java</strong></td>
 </tr>
 
 <tr>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><strong>Python</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><strong>Java</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=py" width="40"/><br><strong>Python</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><strong>C</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><strong>C++</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><strong>Git</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="40"/><br><strong>GitHub</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><strong>Docker</strong></td>
+</tr>
+
+<tr>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><strong>Postman</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br><strong>Vercel</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=jest" width="40"/><br><strong>Jest</strong></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=bun" width="40"/><br><strong>Bun</strong></td>
+</tr>
+
+</table>
+
+</div><td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br><strong>Docker</strong></td>
 <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><strong>Postman</strong></td>
 </tr>
 
